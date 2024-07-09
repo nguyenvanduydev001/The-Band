@@ -1,1 +1,1 @@
-[!Live](https://nguyenvanduydev001.github.io/The-Band/)
+[Live demo](https://nguyenvanduydev001.github.io/The-Band/)
